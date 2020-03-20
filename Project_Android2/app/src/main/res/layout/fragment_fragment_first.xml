@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ggggg">
+
+    <Button
+        android:id="@+id/btnNextPage"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="ข้อมูลตัวละคร"
+        android:textSize="20dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="110dp"/>
+
+    <Button
+        android:id="@+id/btnNextPage2"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="110dp"
+        android:text="สถิติการดาวน์โหลด"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btnNextPage3"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="110dp"
+        android:textSize="20dp"
+        android:text="แสดงความคิดเห็น" />
+
+
+
+</FrameLayout>
